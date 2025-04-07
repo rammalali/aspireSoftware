@@ -37,3 +37,5 @@ This project is a lightweight **Library Management System** built with **FastAPI
    ```bash
    git clone https://github.com/rammalali/aspireSoftware.git
    cd aspireSoftware
+3. **Testing*
+   to test this project you can use postman or localhost:8000/docs 
